@@ -1,0 +1,24 @@
+body * {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+.color-rosadito {
+    background-color: #E83E8C;
+}
+
+.ahora-aceptamos {
+    background-color: #17A2B8;
+}
+
+.logo-suricata-footer {
+    width: 5%;
+}
